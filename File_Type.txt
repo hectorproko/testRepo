@@ -1,0 +1,137 @@
+AIRDUEL.EXE    : MS-DOS executable, MZ for MS-DOS
+AMOR.EXE       : MS-DOS executable
+AMOR87.EXE     : MS-DOS executable
+ANTHILL.EXE    : MS-DOS executable
+AUTS2RC.EXE    : MS-DOS executable
+BL.EXE         : MS-DOS executable
+BRT71EFR.EXE   : MS-DOS executable
+BUSHSAVE.EXE   : MS-DOS executable
+CATALOG.EXE    : MS-DOS executable, MZ for MS-DOS, LZEXE v0.91 compressed
+CC1.EXE        : MS-DOS executable, LZEXE v0.91 compressed
+CDESIGN.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+CHESSCOM.EXE   : MS-DOS executable
+CHEXO.EXE      : MS-DOS executable
+CIRCUM.EXE     : MS-DOS executable
+CONFIG.EXE     : MS-DOS executable
+CONVERT.EXE    : MS-DOS executable
+CREATOR.EXE    : MS-DOS executable
+CRYXTELS.EXE   : MS-DOS executable
+CWSDPMI.EXE    : MS-DOS executable
+CYBER.EXE      : MS-DOS executable, LE executable for MS-DOS, DOS4GW DOS extender
+CYCLOID.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+DAVE.EXE       : MS-DOS executable, LZEXE v0.91 compressed
+DELADD.EXE     : MS-DOS executable
+DEMO.EXE       : MS-DOS executable
+DIGGERS.EXE    : MS-DOS executable
+DOC.EXE        : MS-DOS executable, LE executable for MS-DOS, DOS4GW DOS extender
+DOUBLINK.EXE   : MS-DOS executable
+DRAKE.EXE      : MS-DOS executable, LE executable for MS-DOS, DOS4GW DOS extender
+DRHELP.EXE     : MS-DOS executable, MZ for MS-DOS, LZEXE v0.91 compressed
+EGAINT.EXE     : MS-DOS executable
+EMACS.EXE      : MS-DOS executable
+ESETD.EXE      : MS-DOS executable
+ESETM.EXE      : MS-DOS executable
+FANTASY.EXE    : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+FIELD.EXE      : MS-DOS executable, LE executable for MS-DOS, DOS4GW DOS extender
+FLVER5.EXE     : MS-DOS executable
+FONTUPGR.EXE   : MS-DOS executable, WWPACK compressed
+FS.EXE         : MS-DOS executable, LZEXE v0.91 compressed
+GAME86.EXE     : MS-DOS executable, LZEXE v0.91 compressed
+GB.EXE         : MS-DOS executable
+GDESIGN.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+GO!.EXE        : PE32 executable (GUI) Intel 80386, for MS Windows
+HELPME.EXE     : MS-DOS executable
+HOTBOX.EXE     : MS-DOS executable
+IDEINFO.EXE    : MS-DOS executable
+INSTALL.EXE    : MS-DOS executable
+IT.EXE         : MS-DOS executable, WWPACK compressed
+JAZZ.EXE       : MS-DOS executable, NE for OS/2 1.x (EXE)
+JETPACK.EXE    : MS-DOS executable
+JMAN.EXE       : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+JOUST.EXE      : MS-DOS executable, LZEXE v0.91 compressed
+JOY.EXE        : MS-DOS executable
+KENO.EXE       : MS-DOS executable, LZEXE v0.90 compressed
+KSI.EXE        : MS-DOS executable
+LC.EXE         : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+LEAME.EXE      : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+LEVUPD.EXE     : MS-DOS executable
+LIST.EXE       : MS-DOS executable, TinyProg compressed
+LLAMA.EXE      : MS-DOS executable, LZEXE v0.91 compressed
+LOTTO.EXE      : MS-DOS executable
+LOTTO7.EXE     : MS-DOS executable
+MAXSPEED.EXE   : MS-DOS executable, MZ for MS-DOS
+MDESIGN.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+MECHCONV.EXE   : MS-DOS executable, LZEXE v0.91 compressed
+MECHWAR.EXE    : MS-DOS executable
+MENU.EXE       : MS-DOS executable
+MERGEKRZ.EXE   : MS-DOS executable, WWPACK compressed
+MICEMEN.EXE    : MS-DOS executable
+MIDEMO.EXE     : MS-DOS executable, LZEXE v0.91 compressed
+MOON.EXE       : MS-DOS executable
+MX7.EXE        : MS-DOS executable, MZ for MS-DOS
+NEOBOOK.EXE    : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+NERO5.EXE      : MS-DOS executable
+PCCH1G.EXE     : MS-DOS executable
+PCCH1M.EXE     : MS-DOS executable
+PCCH2G.EXE     : MS-DOS executable
+PCCH2M.EXE     : MS-DOS executable
+PCCHESS.EXE    : MS-DOS executable
+PCCLOCK.EXE    : MS-DOS executable
+PHASE2.EXE     : MS-DOS executable
+POKER.EXE      : MS-DOS executable
+PRINTME.EXE    : COM executable for DOS
+PSETD.EXE      : MS-DOS executable
+PSETM.EXE      : MS-DOS executable
+QLAUNCH.EXE    : PE32 executable (GUI) Intel 80386, for MS Windows
+QUAKE.EXE      : MS-DOS executable, COFF for MS-DOS, DJGPP go32 DOS extender
+QUARTERS.EXE   : MS-DOS executable
+RALLY.EXE      : MS-DOS executable
+RAMPAGE.EXE    : MS-DOS executable, LE for MS-DOS, DOS4GW DOS extender (embedded)
+RC.EXE         : MS-DOS executable, NE for OS/2 1.x (EXE)
+RCCONV.EXE     : MS-DOS executable
+REG_TE.EXE     : MS-DOS executable, NE for MS Windows 3.x (EXE)
+RESCUE.EXE     : MS-DOS executable, MZ for MS-DOS
+RTM.EXE        : MS-DOS executable
+RUN.EXE        : MS-DOS executable, LZEXE v0.91 compressed
+RUNMENU.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+SCOPE.EXE      : MS-DOS executable, LZEXE v0.91 compressed
+SCORCH.EXE     : MS-DOS executable
+SECOND.EXE     : MS-DOS executable, MZ for MS-DOS, LZEXE v0.91 compressed
+SETBLAST.EXE   : MS-DOS executable, MZ for MS-DOS, LZEXE v0.91 compressed
+SETUP.EXE      : MS-DOS executable
+SHWGIF.EXE     : MS-DOS executable
+SLEDGE.EXE     : MS-DOS executable
+SOFWIN.EXE     : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+SORTMECH.EXE   : MS-DOS executable, LZEXE v0.91 compressed
+SPEEDCOM.EXE   : MS-DOS executable
+SPLAY.EXE      : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+SQUASHER.EXE   : MS-DOS executable
+ST3.EXE        : MS-DOS executable
+STARGUN.EXE    : MS-DOS executable, LE executable for MS-DOS, PMODE/W DOS extender
+STARHELP.EXE   : MS-DOS executable, MZ for MS-DOS, LZEXE v0.91 compressed
+STARWAYS.EXE   : MS-DOS executable
+STONE.EXE      : MS-DOS executable, MZ for MS-DOS
+SWCBBS.EXE     : DOS executable (COM), start instruction 0xb85f35ba 9e113bc4
+TEACHERS.EXE   : MS-DOS executable, MZ for MS-DOS Self-extracting PKZIP archive
+TEETRIS.EXE    : MS-DOS executable
+TEMPEST.EXE    : MS-DOS executable
+TENNIS.EXE     : MS-DOS executable, LE executable for MS-DOS, DOS4GW DOS extender
+TESTEXT.EXE    : MS-DOS executable
+TETRIS.EXE     : MS-DOS executable
+TEXTRIS.EXE    : MS-DOS executable
+TIMER.EXE      : MS-DOS executable
+TRAN.EXE       : MS-DOS executable
+TTK.EXE        : MS-DOS executable
+TUBES.EXE      : MS-DOS executable, LZEXE v0.91 compressed
+UNINSTAL.EXE   : MS-DOS executable
+UWCONFIG.EXE   : MS-DOS executable
+UWDEMO.EXE     : MS-DOS executable, MZ for MS-DOS
+VDEMO.EXE      : MS-DOS executable
+VGAP11.EXE     : MS-DOS executable
+VSWAP.EXE      : MS-DOS executable
+WATRPUTR.EXE   : MS-DOS executable, MZ for MS-DOS
+WDESIGN.EXE    : MS-DOS executable, LZEXE v0.91 compressed
+WHACKER.EXE    : MS-DOS executable
+WORLD29.EXE    : MS-DOS executable
+WW.EXE         : MS-DOS executable
+YIFF.EXE       : MS-DOS executable, COFF for MS-DOS, DJGPP go32 DOS extender
